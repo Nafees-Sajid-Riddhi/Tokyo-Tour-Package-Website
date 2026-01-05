@@ -1,2 +1,15 @@
 # Tokyo-Tour-Package-Website
-A simple and user-friendly Tokyo tour package website made with PHP and CSS during our Web Development course in foundation.
+
+This is a simple university project for a web development foundation course.
+
+The site showcases a Tokyo tour package for tourists using PHP, CSS, and images.
+
+## How to Run
+1. Download or clone the repository.
+2. Extract the ZIP file.
+3. Open the `index.php` file on a local server (e.g., XAMPP, WAMP, or PHP server).
+4. The homepage will load automatically.
+
+## Notes
+- Front-end and PHP only; no database or backend functionality.
+- Created for academic purposes.
