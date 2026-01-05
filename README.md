@@ -7,7 +7,7 @@ The site showcases a Tokyo tour package for tourists using PHP, CSS, and images.
 ## How to Run
 1. Download or clone the repository.
 2. Extract the ZIP file.
-3. Open the `index.php` file on a local server (e.g., XAMPP, WAMP, or PHP server).
+3. Open the `index.html` file
 4. The homepage will load automatically.
 
 ## Notes
