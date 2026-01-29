@@ -4,6 +4,10 @@ This is a simple university project for a web development foundation course.
 
 The site showcases a Tokyo tour package for tourists using PHP, CSS, and images.
 
+# Demonstration Video
+
+Link: https://youtu.be/BO5IjMOSJxE
+
 ## How to Run
 1. Download or clone the repository.
 2. Extract the ZIP file.
